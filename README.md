@@ -1,2 +1,2 @@
 # HealthTracker
-This is our group projet!
+This is our group project!
